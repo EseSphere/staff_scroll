@@ -1,0 +1,8 @@
+<IfModule mod_headers.c>
+  <Files "staff-scroll-utils.js">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Cross-Origin-Resource-Policy "cross-origin"
+    Header set Access-Control-Allow-Headers "*"
+    Header set Content-Type "application/javascript"
+  </Files>
+</IfModule>

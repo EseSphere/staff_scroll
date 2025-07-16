@@ -1,0 +1,9 @@
+Crusial info
+
+Your event details page name must be save as 'event-details'
+It must be store in a folder before the current folder your code is in
+and your database id must be in 'userId'
+
+<a href='../event-details?userId=${event.id}' style='width:100px; font-size:13px; height:50px; border:none; text-decoration:none padding:7px; cursor:pointer; border-radius:5px; background-color:rgba(192, 57, 43,1.0); color:#fff;' id="event-details-btn">
+    Modify
+</a>

@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^download-starter-trial$ download-starter-trial.php [L]
